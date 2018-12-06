@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reply.iml" filepath="$PROJECT_DIR$/.idea/modules/reply.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reply_main.iml" filepath="$PROJECT_DIR$/.idea/modules/reply_main.iml" group="reply" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reply_test.iml" filepath="$PROJECT_DIR$/.idea/modules/reply_test.iml" group="reply" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/request.iml" filepath="$PROJECT_DIR$/.idea/modules/request.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/request_main.iml" filepath="$PROJECT_DIR$/.idea/modules/request_main.iml" group="request" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/request_test.iml" filepath="$PROJECT_DIR$/.idea/modules/request_test.iml" group="request" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="request" external.linked.project.path="$MODULE_DIR$/../../request" external.root.project.path="$MODULE_DIR$/../../request" external.system.id="GRADLE" external.system.module.group="sot-request" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../request">
+      <excludeFolder url="file://$MODULE_DIR$/../../request/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../request/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../request/out" />
+    </content>
+    <orderEntry type="jdk" jdkName="10" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
